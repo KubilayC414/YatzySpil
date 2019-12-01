@@ -1,0 +1,17 @@
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpil/YatzySpil/bin/Debug/YatzySpil.exe
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpil/YatzySpil/bin/Debug/YatzySpil.pdb
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpil/YatzySpil/obj/x86/Debug/YatzySpil.csprojAssemblyReference.cache
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpil/YatzySpil/obj/x86/Debug/YatzySpil.exe
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpil/YatzySpil/obj/x86/Debug/YatzySpil.pdb
+/Users/kubilaycakir/Dropbox/Visual Studio/YatzySpil/YatzySpil/bin/Debug/YatzySpil.exe
+/Users/kubilaycakir/Dropbox/Visual Studio/YatzySpil/YatzySpil/bin/Debug/YatzySpil.pdb
+/Users/kubilaycakir/Dropbox/Visual Studio/YatzySpil/YatzySpil/obj/x86/Debug/YatzySpil.csprojAssemblyReference.cache
+/Users/kubilaycakir/Dropbox/Visual Studio/YatzySpil/YatzySpil/obj/x86/Debug/YatzySpil.csproj.CoreCompileInputs.cache
+/Users/kubilaycakir/Dropbox/Visual Studio/YatzySpil/YatzySpil/obj/x86/Debug/YatzySpil.exe
+/Users/kubilaycakir/Dropbox/Visual Studio/YatzySpil/YatzySpil/obj/x86/Debug/YatzySpil.pdb
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpilGammel/YatzySpil/obj/x86/Debug/YatzySpil.csprojAssemblyReference.cache
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpilGammel/YatzySpil/obj/x86/Debug/YatzySpil.csproj.CoreCompileInputs.cache
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpilGammel/YatzySpil/obj/x86/Debug/YatzySpil.exe
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpilGammel/YatzySpil/obj/x86/Debug/YatzySpil.pdb
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpilGammel/YatzySpil/bin/Debug/YatzySpil.exe
+/Users/Kubilay/Dropbox/Visual Studio/YatzySpilGammel/YatzySpil/bin/Debug/YatzySpil.pdb
